@@ -1,4 +1,4 @@
-var GHPATH = "/ICS20-PWA-Test"
+var GHPATH = "/Religion-RST"
 var APP_PREFIX = "gppwa_"
 var VERSION = "version_001"
 var URLS = [
