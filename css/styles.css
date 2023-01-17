@@ -28,6 +28,8 @@ body {
 img {
   float: left;
   margin-left: 15px;
+  width:"5%";
+  height:"5%";
 }
 
 h2 {
