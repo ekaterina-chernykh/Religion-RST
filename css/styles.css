@@ -26,8 +26,8 @@ body {
 }
 
 img {
-  float: right;
-  margin-right: 15px;
+  float: left;
+  margin-left: 15px;
 }
 
 h2 {
