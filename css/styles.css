@@ -25,11 +25,16 @@ body {
   background-color: #345a98;
 }
 
-img {
+#arrow {
   float: left;
   margin-left: 15px;
   width: 3%;
   height: 5%;
+}
+
+img {
+  float: center;
+  height: auto;
 }
 
 h2 {
