@@ -32,11 +32,15 @@ body {
   height: 5%;
 }
 
-/* img {
+#signe {
   float: center;
   height: auto;
 }
-*/
+
+#symbole {
+  float: center;
+  height: 50%;
+}
 
 h2 {
   color: #fff;
